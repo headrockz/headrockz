@@ -1,6 +1,6 @@
 # Olá, eu sou o Asafe
 
-- Cusando Ciência da Computação
+- Cursando Ciência da Computação
 - Atualmente trabalho como estagiário em Engenharia de Dados
 - Nas horas vagas gosto de jogar video game ou assistir um filme/serie
 - Minhas outras paixões além da computação, são: musica, astronomia e aviação
