@@ -14,7 +14,7 @@
     <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<!--     <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> -->
     <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img alt="sqlite" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -22,7 +22,7 @@
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=headrockz&show_icons=true&&theme=dracula)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=headrockz&show_icons=true&&theme=dracula) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=headrockz&layout=compact&theme=dracula)](https://github.com/headrockz/github-readme-stats)
 
 ## Contact
