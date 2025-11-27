@@ -1,6 +1,6 @@
 # Hello, world! ☕️
 
-I'm Asafe, and I am passionate about data, automation, and Homelabs. I currently work as an Analytics Engineer at Nubank, building pipelines and data models. Prior to that, I gained experience as a data engineer.
+I'm Asafe, and I'm passionate about data, automation, and Homelabs. I currently work as an Analytics Engineer at Nubank, building pipelines and data models. Prior to that, I gained experience as a data engineer.
 
 My background includes Python, BigQuery, Airflow, Docker, Spark, and Databricks, as well as experience in GCP, CI/CD, and IaC with Terraform.
 
